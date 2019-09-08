@@ -21,6 +21,6 @@ category: common
 depends:
 - gnuradio
 description: Oren Zaharia bunch of blocks
-gitbranch: maint-3.7
+gitbranch: master
 inherit: cmake
 source: git+https://github.com/orenzah/gr-orenzah.git
